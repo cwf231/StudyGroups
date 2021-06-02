@@ -16,7 +16,7 @@ import dash_bootstrap_components as dbc
 df = pd.read_csv('weight-height.csv')
 
 # Create an app.
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CERULEAN])
+app = dash.Dash(__name__, external_stylesheets=[dbc.themes.SOLAR])
 app.title = 'My App'
 
 # Setup a simple html `div`.
