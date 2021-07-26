@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/cwf231/Online-DS-FT-022221-Cohort-Notes/master/Phase_2/topic_11_probability_and_combinatorics/playlist_requests/anne_recs.csv
+https://raw.githubusercontent.com/cwf231/Online-DS-FT-022221-Cohort-Notes/master/Phase_2/topic_11_probability_and_combinatorics/playlist_requests/carla_recs.csv
+https://raw.githubusercontent.com/cwf231/Online-DS-FT-022221-Cohort-Notes/master/Phase_2/topic_11_probability_and_combinatorics/playlist_requests/james_recs.csv
+https://raw.githubusercontent.com/cwf231/Online-DS-FT-022221-Cohort-Notes/master/Phase_2/topic_11_probability_and_combinatorics/playlist_requests/joe_recs.csv
+https://raw.githubusercontent.com/cwf231/Online-DS-FT-022221-Cohort-Notes/master/Phase_2/topic_11_probability_and_combinatorics/playlist_requests/john_recs.csv
+https://raw.githubusercontent.com/cwf231/Online-DS-FT-022221-Cohort-Notes/master/Phase_2/topic_11_probability_and_combinatorics/playlist_requests/samantha_recs.csv
